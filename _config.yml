@@ -1,6 +1,6 @@
 # Site settings
-title:
-email:
+title: Sports&GO
+email: info@sportsgo.net
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,17 +9,17 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
-email:
-facebook_username:
+owner: Sports&Go
+email: info@sportsgo.net
+facebook_username: 
 twitter_username:
-github_username:
-address:
-  - line:
-  - line:
+github_username: 
+address: 
+  - line: Porto
+  - line: Portugal
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright: xpto
 
 # API settings
 google_api_key:
