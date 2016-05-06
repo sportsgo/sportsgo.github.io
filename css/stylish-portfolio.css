@@ -160,7 +160,7 @@ hr.small {
 /* Services */
 .services {
     padding: 50px 0;
-    background-color: #248f8f;
+    background-color: #01D3D4;
 }
 
 .service-item {
@@ -198,7 +198,6 @@ hr.small {
 }
 
 /* Call to Action */
-
 .call-to-action {
     padding: 50px 0;
 }
