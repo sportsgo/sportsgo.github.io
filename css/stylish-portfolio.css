@@ -140,7 +140,6 @@ hr.small {
 }
 
 /* Header */
-
 .header {
     display: table;
     position: relative;
@@ -161,6 +160,7 @@ hr.small {
 /* Services */
 .services {
     padding: 50px 0;
+    background-color: #00a3cc;
 }
 
 .service-item {
