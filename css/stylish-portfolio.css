@@ -5,7 +5,6 @@
  */
 
 /* Global Styles */
-
 html,
 body {
     width: 100%;
@@ -30,7 +29,6 @@ body {
 }
 
 /* Custom Button Styles */
-
 .btn-dark {
     border-radius: 0;
     color: #fff;
@@ -58,13 +56,11 @@ body {
 }
 
 /* Custom Horizontal Rule */
-
 hr.small {
     max-width: 100px;
 }
 
 /* Side Menu */
-
 #sidebar-wrapper {
     z-index: 1000;
     position: fixed;
@@ -163,13 +159,11 @@ hr.small {
 }
 
 /* About */
-
 .about {
     padding: 50px 0;
 }
 
 /* Services */
-
 .services {
     padding: 50px 0;
 }
@@ -179,7 +173,6 @@ hr.small {
 }
 
 /* Callout */
-
 .callout {
     display: table;
     width: 100%;
@@ -193,7 +186,6 @@ hr.small {
 }
 
 /* Portfolio */
-
 .portfolio {
     padding: 50px 0;
 }
@@ -221,9 +213,8 @@ hr.small {
 }
 
 /* Map */
-
 .map {
-    height: 500px;
+    height: 300px;
 }
 
 @media(max-width:768px) {
@@ -238,7 +229,6 @@ hr.small {
 }
 
 /* Footer */
-
 footer {
     padding: 5px 0;
 }
