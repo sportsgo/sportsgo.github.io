@@ -8,10 +8,6 @@ body {
     background-color: #f2f2f2;
 }
 
-.fontYellow {
-    color: #CAFF42;;
-}
-
 .text-vertical-center {
     display: table-cell;
     text-align: center;
@@ -229,4 +225,8 @@ hr.small {
 /* Footer */
 footer {
     padding: 5px 0;
+}
+
+.fontYellow {
+    color: #CAFF42;;
 }
