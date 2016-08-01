@@ -3,11 +3,13 @@ html,
 body {
     width: 100%;
     height: 100%;
+    
+    font-family: 'Optima', 'Segoe UI' , Sans-serif;
+    background-color: #f2f2f2;
 }
 
 body {
-    font-family: 'Optima', 'Segoe UI' , Sans-serif;
-    background-color: #f2f2f2;
+
 }
 
 .text-vertical-center {
@@ -21,6 +23,7 @@ body {
     padding: 0;
     font-size: 4.5em;
     font-weight: 700;
+    color: #CAFF42;
 }
 
 /* Custom Button Styles */
