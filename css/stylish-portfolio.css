@@ -8,11 +8,14 @@ body {
     background-color: #f2f2f2;
 }
 
+#main {
+    color: #CAFF42;;
+}
+
 .text-vertical-center {
     display: table-cell;
     text-align: center;
     vertical-align: middle;
-    color: #CAFF42;
 }
 
 .text-vertical-center h1 {
