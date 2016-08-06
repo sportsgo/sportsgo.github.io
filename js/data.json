@@ -1,28 +1,28 @@
 [
   {
     "id": 1, 
-    "eventTitle": "This is a Marathon Title1", 
-    "eventUrl": "http://www.google.com",
-    "imageUrl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150821145449-honolulu-marathon-exlarge-169.jpg", 
-    "description": "This is a description caption1",
-    "location": "Port1",
-    "type": "Marathon1" 
+    "eventTitle": "Sunset Running", 
+    "eventUrl": "http://www.runningmag.pt/events/event/sunset-running/",
+    "imageUrl": "http://www.runningmag.pt/wp-content/uploads/2016/07/sunset-running-vila-conde-e1469958407491.jpg", 
+    "description": "This a Marathon occuring at 6 August 2016",
+    "location": "Vila do Conde",
+    "type": "Marathon" 
   }, 
   {
     "id": 1, 
-    "eventTitle": "This is a Marathon Title2", 
-    "eventUrl": "http://www.bing.com",
-    "imageUrl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150821145449-honolulu-marathon-exlarge-169.jpg", 
-    "description": "This is a description caption2",
+    "eventTitle": "Ultra Trilhos Rocha da Pena", 
+    "eventUrl": "http://www.runningmag.pt/events/event/ultra-trilhos-rocha-da-pena/",
+    "imageUrl": "http://www.runningmag.pt/wp-content/uploads/2016/02/10341860_449908558489176_7309952504240551431_n-260x250.png", 
+    "description": "This is a Trail event occuring at 7th August in Serra da Pena",
     "location": "Porto2",
-    "type": "Marathon2" 
+    "type": "Serra da Pena" 
   }, 
   {
   "id": 1, 
-  "eventTitle": "This is a Marathon Title3", 
+  "eventTitle": "Ponta do Sol – Madeira Trail Series", 
   "eventUrl": "http://www.yahoo.com",
-  "imageUrl": "http://i2.cdn.turner.com/cnnnext/dam/assets/150821145449-honolulu-marathon-exlarge-169.jpg", 
-  "description": "This is a description caption3",
+  "imageUrl": "http://www.runningmag.pt/wp-content/uploads/2016/07/ponta-do-sol1-825x1024.jpg", 
+  "description": "This is full Marathon occuring at 14 August 2016 in Ponta do Sol",
   "location": "Porto3",
   "type": "Marathon3" 
   }
