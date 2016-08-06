@@ -1,5 +1,26 @@
-{
-"name": "Zara Ali",
-"age" : "67",
-"sex": "female"
-}
+[
+  {
+    "id": 1, 
+    "name": "Google", 
+    "site_url": "http://www.google.com", 
+    "slug": "google"
+  }, 
+  {
+    "id": 2, 
+    "name": "Bing", 
+    "site_url": "http://www.bing.com", 
+    "slug": "bing"
+  }, 
+  {
+    "id": 4, 
+    "name": "Yahoo", 
+    "site_url": "http://www.yahoo.com", 
+    "slug": "yahoo"
+  }, 
+  {
+    "id": 5, 
+    "name": "Yahoo", 
+    "site_url": "http://www.yahoo.com", 
+    "slug": "yahoo"
+  }
+]
