@@ -246,7 +246,9 @@ footer {
 
 /* SCROLLBAR */
 ::-webkit-scrollbar {
-  width: 20px;
-  background: #CAFF42;
+  width: 10px;
 }
 
+::-webkit-scrollbar-thumb {
+    color: #CAFF42;
+}
