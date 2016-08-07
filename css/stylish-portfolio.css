@@ -14,6 +14,11 @@ body {
     vertical-align: middle;
 }
 
+.spg {
+    font-weight: 700;
+    font-family: 'Coda';
+    color: #CAFF42;
+}
 
 .text-vertical-center h1 {
     margin: 0;
