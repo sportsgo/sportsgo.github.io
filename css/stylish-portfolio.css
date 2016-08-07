@@ -1,11 +1,4 @@
 /* DEVICE SELECTOR */
-/*
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-} */
-
 @media (max-width:599px){
   body{
     font-size:0.65em;
