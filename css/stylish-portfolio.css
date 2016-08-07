@@ -1,3 +1,25 @@
+/* DEVICE SELECTOR */
+/*
+@media(max-width:768px) {
+    .map {
+        height: 75%;
+    }
+} */
+
+@media (max-width:599px){
+  body{
+    font-size:0.65em;
+    }
+  }
+
+@media (min-width:600px){
+  #articles{
+    margin-left:2.5%;
+    margin-right:2.5%;
+    }
+  }
+
+
 /* Global Styles */
 html,
 body {
@@ -220,20 +242,6 @@ hr.small {
 .map {
     height: 450px;
 }
-
-
-@media(max-width:768px) {
-    .map {
-        height: 75%;
-    }
-}
-
-/*
-@media (max-width: 599px)
-body {
-    font-size: 0.65em;
-}
-*/
 
 /*disable custom maps scrolling behaviour*/
 .scrolloff {
